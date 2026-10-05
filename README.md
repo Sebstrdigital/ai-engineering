@@ -6,7 +6,7 @@ This repo takes a hard look at that question and pushes back on the easy answers
 
 ## What's here
 
-- **[The Agentic Software Factory](docs/agentic-software-factory.html)**. Learning notes on Dex Horthy's workflow: how the production line changed with agents, why a factory where nobody reads the code breaks down, and the four gates (product, architecture, program design, vertical slices) that keep code maintainable. It is a single HTML file. Download it and open it in a browser.
+- **[The Agentic Software Factory](https://sebstrdigital.github.io/ai-engineering/agentic-software-factory.html)**. Learning notes on Dex Horthy's workflow: how the production line changed with agents, why a factory where nobody reads the code breaks down, and the four gates (product, architecture, program design, vertical slices) that keep code maintainable. The source is [one HTML file](docs/agentic-software-factory.html).
 - **[software-factory skill](skills/software-factory/)**. The same four-gate workflow as an installable agent skill. Start with [SKILL.md](skills/software-factory/SKILL.md).
 
 ## Credit
