@@ -1,0 +1,5 @@
+node-compile-cache/
+.DS_Store
+
+# Third-party source material and internal working notes: kept on disk, not published
+sources/
